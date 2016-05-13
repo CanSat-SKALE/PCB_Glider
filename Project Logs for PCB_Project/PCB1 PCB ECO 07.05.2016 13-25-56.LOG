@@ -1,0 +1,17 @@
+Added Component: Designator=IR1(Header 2 Jumper)
+Added Component: Designator=P4(Header 3 Servo)
+Added Component: Designator=R24(RES_0603)
+Added Component: Designator=R25(RES_0603)
+Added Pin To Net: NetName=NetIR1_1 Pin=IR1-1
+Added Pin To Net: NetName=NetIR1_2 Pin=IR1-2
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=5VA Pin=P4-3
+Added Pin To Net: NetName=SWDIO Pin=R24-1
+Added Pin To Net: NetName=NetP3_4 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=ADC_BAT Pin=R25-2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component IR1 IR
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P4 MPXV7002
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R24 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R25 Res3

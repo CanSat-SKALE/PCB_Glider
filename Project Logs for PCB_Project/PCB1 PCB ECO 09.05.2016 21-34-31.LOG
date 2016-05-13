@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=SHDN_IN Pin=U7-22
+Removed Pin From Net: NetName=INT_MPU Pin=U7-33
+Added Pin To Net: NetName=INT_MPU Pin=U7-22
+Added Pin To Net: NetName=SHDN_IN Pin=U7-33
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C5 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C22 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C24 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C25 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C28 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C29 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C31 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C32 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C35 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C36 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C38 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C39 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C40 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C41 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C42 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component C45 Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Cr Cap Semi
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q2 MOSFET-P
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q3 MOSFET-N
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q5 MOSFET-P
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R1 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R2 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R15 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R17 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R22 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R24 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R25 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Rl3 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U7 STM32F405
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Y1 Crystal

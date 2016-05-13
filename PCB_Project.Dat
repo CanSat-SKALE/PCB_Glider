@@ -1,0 +1,52 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~121|Field=Comment~String~Comment~69|Field=Designator~String~Designator~116|Field=Quantity~Integer~Quantity~53|Field=Value~String~Value~252|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Glider_V2\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~117|ReportField=ReportTime~19:47:33|ReportField=ReportDate~10.05.2016|ReportField=ReportDateTime~10.05.2016 19:47:33|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10.05.2016|ReportField=CurrentTime~19:40:18|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Glider_V2\glider_sch_V1_16Febr.SchDoc|ReportField=DocumentName~glider_sch_V1_16Febr.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10.05.2016|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Glider_V2\PCB_Project.PrjPcb|ReportField=PCBDataSourceFileName~PCB1.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Lupu Sorina\Documents\GitHub\Electronics_Glider_V2\PCB1.PcbDoc
+1|Quartz|Crystal|Y1|1|
+2|microSD|microSD|U11|1|
+3||XBEE Pro Series 1|U10|1|
+4|GPS|MAX-M8W|U8|1|
+5|MCU|STM32F405|U7|1|
+6|DCDC|LTC3539-2|U6, U9|2|
+7|Pressure Sensor|MS5611-01BA03|U5|1|
+8|Magnetometer|HMC5883L|U4|1|
+9|High g accelerometer|H3LIS331DL|U3|1|
+10|Pressure Sensor for pitot tube|MPXV7002|U2|1|
+11|Accelerometer (lowg)|MPU6050|U1|1|
+12|Header 3 |Servo_Con|Servo|1|
+13|Resistor|Res3|Rl1, Rl2, Rl3, Rl4, Rl6|5|500
+14|Resistor|Res3|R24|1|100
+15|Resistor|Res3|R20|1|47 ohm
+16|Resistor|Res3|R14|1|562k
+17|Resistor|Res3|R11, R21|2|10
+18|Resistor|Res3|R10, R12|2|20 ohm
+19|Resistor|Res3|R8|1|309k
+20|Resistor|Res3|R7|1|1k
+21|Resistor|Res3|R4, R13|2|1M
+22|Resistor|Res3|R2, R18, R25|3|15k
+23|Resistor|Res3|R1, R3, R5, R6, R9, R15, R16, R17, R19, R22, R23|11|10k
+24|N-Channel MOSFET|MOSFET-N|Q3, Q4|2|
+25|P-Channel MOSFET|MOSFET-P|Q1, Q2, Q5|3|
+26|Header, 3-Pin|Header 3|P8, P9|2|
+27|Header, 5-Pin|Header 5|P6, P7|2|
+28|Header, 3-Pin|MPXV7002_CON|P4, P5|2|
+29|Connector|SWD|P3|1|
+30|Header, 2-Pin|Bat/Switch Con|P2|1|
+31|RF Coaxial PCB Connector, MMCX; Thru-Hole, Vertical Mount Plug,  50 Ohm Impedance|COAX-M|P1|1|
+32|Magnetic Transducer Buzzer|Buzzer|LS1|1|
+33|Inductor|Inductor|L2, L4|2|2.2 uH
+34|Inductor|Inductor|L1, L3|2|BLM18KG601SN1D
+35||IR|IR1|1|
+36|Zener Diode|D Zener|D10, D11|2|
+37|Typical RED, GREEN, YELLOW, AMBER GaAs LED|LED2|D3, D4, D5, D6, D8|5|
+38|Default Diode||D1|1|
+39|Header, 4-Pin|Camera Connector|Camera|1|
+40|Capacitor (Semiconductor SIM Model)|Cap Semi|C33, C34, C45|3|10uF
+41|Capacitor (Semiconductor SIM Model)|Cap Semi|C28, C31|2|10pF
+42|Capacitor (Semiconductor SIM Model)|Cap Semi|C21, C22, C27, C32|4|2.2uF
+43|Capacitor (Semiconductor SIM Model)|Cap Semi|C20, C26, C29, C42, C43|5|1uF
+44|Capacitor (Semiconductor SIM Model)|Cap Semi|C18, C19, C24, C25, C44|5|22uF
+45|Capacitor (Semiconductor SIM Model)|Cap Semi|C14, C23|2|33pF
+46|Capacitor (Semiconductor SIM Model)|Cap Semi|C8|1|2.2nF
+47|Capacitor (Semiconductor SIM Model)|Cap Semi|C5|1|np
+48|Capacitor (Semiconductor SIM Model)|Cap Semi|C4, C39|2|4.7uF
+49|Capacitor (Semiconductor SIM Model)|Cap Semi|C2|1|0.22uF
+50|Capacitor (Semiconductor SIM Model)|Cap Semi|C1, C3, C6, C7, C9, C10, C11, C12, C13, C15, C16, C17, C35, C36, C38, C40, C41, Cr|18|0.1uF
+51|Multicell Battery|Battery|BT1|1|

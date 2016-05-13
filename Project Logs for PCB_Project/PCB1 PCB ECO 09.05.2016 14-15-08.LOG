@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=VDD_SD Pin=Rl5-2
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=D7
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=Rl5

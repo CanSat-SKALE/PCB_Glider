@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_G Pin=W2-1
+Removed Pin From Net: NetName=3V3 Pin=W5-2
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=W2
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=W5
+Added Pin To Net: NetName=3V3 Pin=C30-1
+Added Pin To Net: NetName=3V3 Pin=C45-1
+Added Pin To Net: NetName=VCC_G Pin=Q1-3
+Added Pin To Net: NetName=3V3 Pin=U10-1
+Change Net Name : Old Net Name=CAM_VCC New Net Name=5V

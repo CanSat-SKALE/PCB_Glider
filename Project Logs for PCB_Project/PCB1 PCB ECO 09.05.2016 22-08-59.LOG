@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=~SD_EN Pin=U7-25
+Added Pin To Net: NetName=~SD_EN Pin=U7-45

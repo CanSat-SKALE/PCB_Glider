@@ -1,0 +1,10 @@
+Added Component: Designator=P?(Header 3 1 mm pitch)
+Added Component: Designator=P?(Header 3 1 mm pitch)
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=PWM_BUZZER Pin=P?-2
+Added Pin To Net: NetName=PWM_BUZZER Pin=P?-2
+Added Pin To Net: NetName=5V Pin=P?-3
+Added Pin To Net: NetName=5V Pin=P?-3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P? Header 3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P? Header 3

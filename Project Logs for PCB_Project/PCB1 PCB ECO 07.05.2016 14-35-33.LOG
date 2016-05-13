@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SD_LED Pin=Rl5-2
+Added Pin To Net: NetName=VDD_SD Pin=Rl5-2

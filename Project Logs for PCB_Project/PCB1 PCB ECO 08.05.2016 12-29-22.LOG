@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VBAT Pin=C_bat-1
+Removed Pin From Net: NetName=GND Pin=C_bat-2
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=C_bat

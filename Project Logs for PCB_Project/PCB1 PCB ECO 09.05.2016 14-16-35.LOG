@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IMG_TX Pin=Camera-3
+Removed Pin From Net: NetName=IMG_RX Pin=Camera-4
+Added Pin To Net: NetName=IMG_RX Pin=Camera-3
+Added Pin To Net: NetName=IMG_TX Pin=Camera-4

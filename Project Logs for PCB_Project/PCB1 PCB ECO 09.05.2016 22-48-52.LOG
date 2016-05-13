@@ -1,0 +1,9 @@
+Added Component: Designator=U10(XBEE DIP-20)
+Added Pin To Net: NetName=3V3 Pin=U10-1
+Added Pin To Net: NetName=XB_TX Pin=U10-2
+Added Pin To Net: NetName=XB_RX Pin=U10-3
+Added Pin To Net: NetName=SLEEP_RQ Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-10
+Added Pin To Net: NetName=XB_CTS Pin=U10-12
+Added Pin To Net: NetName=XB_RTS Pin=U10-16
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U10 XBEE Pro Series 1

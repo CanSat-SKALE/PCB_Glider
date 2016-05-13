@@ -1,0 +1,4 @@
+Added Component: Designator=R25(RES_0603)
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=ADC_BAT Pin=R25-2
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R25 Res3

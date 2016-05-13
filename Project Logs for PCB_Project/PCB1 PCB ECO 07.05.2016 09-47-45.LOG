@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=3V3 Pin=C26-2
+Removed Pin From Net: NetName=3V3 Pin=C34-2
+Removed Pin From Net: NetName=3V3 Pin=C35-1
+Removed Pin From Net: NetName=3V3 Pin=C36-1
+Removed Pin From Net: NetName=3V3 Pin=C37-1
+Removed Pin From Net: NetName=3V3 Pin=C38-1
+Removed Pin From Net: NetName=3V3 Pin=C39-1
+Removed Pin From Net: NetName=3V3 Pin=C40-1
+Removed Pin From Net: NetName=3V3 Pin=C41-1
+Removed Pin From Net: NetName=3V3 Pin=C42-1
+Removed Pin From Net: NetName=XB_CTS Pin=CTS-0
+Removed Pin From Net: NetName=3V3 Pin=L3-2
+Removed Pin From Net: NetName=3V3 Pin=P3-1
+Removed Pin From Net: NetName=SWDIO Pin=P3-3
+Removed Pin From Net: NetName=SWCLK Pin=P3-4
+Removed Pin From Net: NetName=NRST Pin=P3-5
+Removed Pin From Net: NetName=3V3 Pin=Q1-2
+Removed Pin From Net: NetName=3V3 Pin=Q2-2
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=ADC_BAT Pin=R19-2
+Removed Pin From Net: NetName=3V3 Pin=R20-1
+Removed Pin From Net: NetName=3V3 Pin=Rl3-2
+Removed Pin From Net: NetName=3V3 Pin=Rr-1
+Removed Pin From Net: NetName=NRST Pin=Rr-2
+Removed Pin From Net: NetName=XB_RTS Pin=RTS-0
+Removed Pin From Net: NetName=XB_RX Pin=RX-0
+Removed Pin From Net: NetName=NRST Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=T10-0
+Removed Pin From Net: NetName=INT_H3LIS Pin=TP1-0
+Removed Pin From Net: NetName=INT_HMC Pin=TP2-0
+Removed Pin From Net: NetName=INT_MPU Pin=TP3-0
+Removed Pin From Net: NetName=ADC_PITOT Pin=TP4-0
+Removed Pin From Net: NetName=GPS_TX Pin=TP5-0
+Removed Pin From Net: NetName=GPS_RX Pin=TP6-0
+Removed Pin From Net: NetName=GND Pin=TP9-0
+Removed Pin From Net: NetName=IMG_TX Pin=TP11-0
+Removed Pin From Net: NetName=PWM_SERVO Pin=TP12-0
+Removed Pin From Net: NetName=IMG_RX Pin=TP13-0
+Removed Pin From Net: NetName=GND Pin=TP14-0
+Removed Pin From Net: NetName=XB_TX Pin=TX-0
+Removed Pin From Net: NetName=3V3 Pin=U7-1
+Removed Pin From Net: NetName=3V3 Pin=U7-13
+Removed Pin From Net: NetName=3V3 Pin=U7-19
+Removed Pin From Net: NetName=3V3 Pin=U7-32
+Removed Pin From Net: NetName=3V3 Pin=U7-48
+Removed Pin From Net: NetName=3V3 Pin=U7-64
+Removed Pin From Net: NetName=5V Pin=W1-2
+Removed Pin From Net: NetName=NetC23_2 Pin=W3-2
+Removed Pin From Net: NetName=VDD_SD Pin=W4-2
+Removed Pin From Net: NetName=3V3 Pin=W5-2
+Removed Pin From Net: NetName=5V Pin=W6-1
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=CTS
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=D2
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=Rr
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=RTS
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=RX
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=SW1
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=T10
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP1
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP2
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP3
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP4
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP5
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP6
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP9
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP11
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP12
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP13
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TP14
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=TX
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=W1
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=W3
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=W4
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=W6
+Change Component Footprint: Designator=P3 Old Footprint=HEADER 7 SWD New Footprint=MOLEX_Debug_Con
+Change Component Footprint: Designator=S2 Old Footprint=SWITCH New Footprint=Header 3 Servo
+Added Component: Designator=IR1(Header 2 Jumper)
+Added Component: Designator=Q5(P-MOS (SOT323))
+Added Pin To Net: NetName=5V Pin=C14-2
+Added Pin To Net: NetName=5V Pin=C18-2
+Added Pin To Net: NetName=5V Pin=C19-2
+Added Pin To Net: NetName=5V Pin=C43-1
+Added Pin To Net: NetName=5V Pin=Camera-1
+Added Pin To Net: NetName=NetC23_2 Pin=L3-1
+Added Pin To Net: NetName=NRST Pin=P3-3
+Added Pin To Net: NetName=SWCLK Pin=P3-5
+Added Pin To Net: NetName=VDD_SD Pin=Q2-3
+Added Pin To Net: NetName=3V3 Pin=Q5-3
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=ADC_BAT Pin=R19-2
+Added Pin To Net: NetName=5V Pin=U6-8
+Change Net Name : Old Net Name=3V3 New Net Name=ON
+Change Net Name : Old Net Name=5V New Net Name=CAM_VCC
+Added Pin To Net: NetName=3V3A Pin=C26-2
+Added Pin To Net: NetName=3V3A Pin=C34-2
+Added Pin To Net: NetName=3V3A Pin=C38-1
+Added Pin To Net: NetName=3V3A Pin=C42-1
+Added Pin To Net: NetName=3V3A Pin=L3-2
+Added Pin To Net: NetName=3V3A Pin=Q5-2
+Added Pin To Net: NetName=3V3A Pin=R19-2
+Added Pin To Net: NetName=3V3A Pin=U7-13
+Added Net: Name=3V3A
+Added Pin To Net: NetName=3V3 Pin=C35-1
+Added Pin To Net: NetName=3V3 Pin=C36-1
+Added Pin To Net: NetName=3V3 Pin=C37-1
+Added Pin To Net: NetName=3V3 Pin=C39-1
+Added Pin To Net: NetName=3V3 Pin=C40-1
+Added Pin To Net: NetName=3V3 Pin=C41-1
+Added Pin To Net: NetName=3V3 Pin=P3-1
+Added Pin To Net: NetName=3V3 Pin=Q1-2
+Added Pin To Net: NetName=3V3 Pin=Q2-2
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=3V3 Pin=R20-2
+Added Pin To Net: NetName=3V3 Pin=Rl3-2
+Added Pin To Net: NetName=3V3 Pin=U7-1
+Added Pin To Net: NetName=3V3 Pin=U7-19
+Added Pin To Net: NetName=3V3 Pin=U7-32
+Added Pin To Net: NetName=3V3 Pin=U7-48
+Added Pin To Net: NetName=3V3 Pin=U7-64
+Added Pin To Net: NetName=3V3 Pin=W5-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetIR1_1 Pin=IR1-1
+Added Pin To Net: NetName=NetIR1_1 Pin=R20-1
+Added Net: Name=NetIR1_1
+Added Pin To Net: NetName=NetIR1_2 Pin=IR1-2
+Added Pin To Net: NetName=NetIR1_2 Pin=Q3-3
+Added Net: Name=NetIR1_2
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=~ON_SENS Pin=Q5-1
+Added Pin To Net: NetName=~ON_SENS Pin=R19-1
+Added Pin To Net: NetName=~ON_SENS Pin=U7-50
+Added Net: Name=~ON_SENS
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component BT1 Battery
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component IR1 IR
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q1 MOSFET-P
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component Q5 MOSFET-P
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R1 Res3
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component R2 Res3

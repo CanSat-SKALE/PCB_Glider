@@ -1,0 +1,26 @@
+Change Component Comment : Designator=P4 Old Comment=MPXV7002 New Comment=MPXV7002_CON
+Added Component: Designator=P5(Header 3 Servo)
+Added Component: Designator=P6(Header 5 GPS)
+Added Component: Designator=P7(Header 5 GPS)
+Added Component: Designator=U2(SOP8_MPXV7002(Primary))
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=NetP4_2 Pin=P5-2
+Added Pin To Net: NetName=5VA Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GPS_TX Pin=P6-2
+Added Pin To Net: NetName=GPS_RX Pin=P6-3
+Added Pin To Net: NetName=~GPS_EN Pin=P6-4
+Added Pin To Net: NetName=3V3 Pin=P6-5
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GPS_TX Pin=P7-2
+Added Pin To Net: NetName=GPS_RX Pin=P7-3
+Added Pin To Net: NetName=~GPS_EN Pin=P7-4
+Added Pin To Net: NetName=3V3 Pin=P7-5
+Added Pin To Net: NetName=5VA Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetP4_2 Pin=U2-4
+Change Net Name : Old Net Name=NetP4_2 New Net Name=V_PIT
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P5 MPXV7002_CON
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P6 Header 5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component P7 Header 5
+Added Member To Class: ClassName=glider_sch_V1_16Febr Member=Component U2 MPXV7002

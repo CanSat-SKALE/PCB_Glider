@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBAT Pin=S2-3
+Removed Member From Class: ClassName=glider_sch_V1_16Febr Member=S2
+Change Component Comment : Designator=P2 Old Comment=Bat Con New Comment=Bat/Switch Con
+Added Pin To Net: NetName=VBAT Pin=P2-2
